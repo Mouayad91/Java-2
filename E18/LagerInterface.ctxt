@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LagerInterface
+comment0.text=\r\n\ FunctionalInterface\r\n\r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=artikel
+comment1.target=void\ apply(Artikel)
+numComments=2

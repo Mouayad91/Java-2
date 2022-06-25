@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\r\n\ Eine\ Klasse,\ die\ ein\ CD\ von\ typ\ Artikel\ beschreibt,\ und\ mit\ 7\ Attribute\ (artikelNr,\ art,\ bestand,\ preis,\ interpret,\ titel\ und\ anzahlTitel)\r\n\ erstellt\ wird.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Kabas\ Algharib\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=artikelNr\ bestand\ preis\ interpret\ titel\ anzahlTitel
+comment1.target=CD(int,\ int,\ double,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Hier\ werden\ die\ Attribute\ zum\ erstellen\ eines\ CDs\ vom\ Benutzer\ eingegeben\ und\ gepr\u00FCft.\r\n\ \r\n\ @param\ artikelNr,\ art,\ bestand,\ preis,\ interpret,\ titel\ und\ anzahlTitel\ eines\ CDs\r\n
+comment2.params=
+comment2.target=Artikel\ cdEinfuegen()
+comment2.text=\r\n\ Ein\ neues\ CD\ wird\ hier\ angelegt\ und\ wird\ Werte\ f\u00FCr\ die\ Attribute\ eingegeben.\r\n\ \r\n\ @return\ CD\ Ein\ neues\ CD\r\n
+comment3.params=
+comment3.target=java.lang.String\ getInterpret()
+comment3.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ Interpret\ eines\ CDs.\r\n\ \r\n\ @return\ interpret\ eines\ CDs\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitel()
+comment4.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ titel\ eines\ CDs.\r\n\ \r\n\ @return\ titel\ eines\ CDs\r\n
+comment5.params=
+comment5.target=int\ getAnzahlTitel()
+comment5.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ Anzahltitel\ eines\ CDs.\r\n\ \r\n\ @return\ anzahlTitel\ eines\ CDs\r\n
+comment6.params=
+comment6.target=java.lang.String\ getBeschreibung()
+comment6.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ die\ Beschreibung\ eines\ CDs.\r\n\ \r\n\ @return\ interpret,\ titel\ eines\ CDs\r\n
+numComments=7

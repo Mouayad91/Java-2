@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Buch
+comment0.text=\r\n\ Eine\ Klasse,\ die\ einen\ Buch\ von\ typ\ Artikel\ beschreibt,\ und\ mit\ 7\ Attribute\ (artikelNr,\ art,\ bestand,\ preis,\ autor,\ titel\ und\ verlag)\r\n\ erstellt\ wird.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Kabas\ Algharib\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=artikelNr\ bestand\ preis\ autor\ titel\ verlag
+comment1.target=Buch(int,\ int,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Hier\ werden\ die\ Attribute\ zum\ erstellen\ eines\ Buchs\ vom\ Benutzer\ eingegeben\ und\ gepr\u00FCft.\r\n\ \r\n\ @param\ artikelNr,\ art,\ bestand,\ preis,\ autor,\ titel\ und\ verlag\ eines\ Buchs\r\n
+comment2.params=
+comment2.target=Artikel\ buchEinfuegen()
+comment2.text=\r\n\ Ein\ neues\ Buch\ wird\ hier\ angelegt\ und\ wird\ Werte\ f\u00FCr\ die\ Attribute\ eingegeben.\r\n\ \r\n\ @return\ CD\ Ein\ neues\ Buch\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitel()
+comment3.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ Titel\ eines\ Buchs.\r\n\ \r\n\ @return\ titel\ eines\ Buchs\r\n
+comment4.params=
+comment4.target=java.lang.String\ getAutor()
+comment4.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ Autor\ eines\ Buchs.\r\n\ \r\n\ @return\ autor\ eines\ Buchs\r\n
+comment5.params=
+comment5.target=java.lang.String\ getVerlag()
+comment5.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ Verlag\ eines\ Buchs.\r\n\ \r\n\ @return\ verlag\ eines\ Buchs\r\n
+comment6.params=
+comment6.target=java.lang.String\ getBeschreibung()
+comment6.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ die\ Beschreibung\ eines\ Buchs.\r\n\ \r\n\ @return\ titel,\ autor\ eines\ Buchs\r\n
+numComments=7

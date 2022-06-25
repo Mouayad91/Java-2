@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=\r\n\ Eine\ Klasse,\ die\ ein\ Video\ von\ typ\ Artikel\ beschreibt,\ und\ mit\ 7\ Attribute\ (artikelNr,\ art,\ bestand,\ preis,\ titel,\ spieldauer\ un\ jahr)\r\n\ erstellt\ wird.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Kabas\ Algharib\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=artikelNr\ bestand\ preis\ titel\ spieldauer\ jahr
+comment1.target=Video(int,\ int,\ double,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Hier\ werden\ die\ Attribute\ zum\ erstellen\ eines\ Videos\ vom\ Benutzer\ eingegeben\ und\ gepr\u00FCft.\r\n\ \r\n\ @param\ artikelNr,\ art,\ bestand,\ preis,\ titel,\ spieldauer\ und\ jahr\ eines\ Videos\r\n
+comment2.params=
+comment2.target=Artikel\ videoEinfuegen()
+comment2.text=\r\n\ Ein\ neues\ Video\ wird\ hier\ angelegt\ und\ wird\ Werte\ f\u00FCr\ die\ Attribute\ eingegeben.\r\n\ \r\n\ @return\ Video\ Ein\ neues\ Video\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitel()
+comment3.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ dan\ Titel\ eines\ Videos.\r\n\ \r\n\ @return\ titel\ eines\ Videos\r\n
+comment4.params=
+comment4.target=int\ getSpieldauer()
+comment4.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ das\ Spieldauer\ eines\ Videos.\r\n\ \r\n\ @return\ spieldauer\ eines\ Videos\r\n
+comment5.params=
+comment5.target=int\ getJahr()
+comment5.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ das\ Jahr\ eines\ Videos.\r\n\ \r\n\ @return\ jahr\ des\ Videos\r\n
+comment6.params=
+comment6.target=java.lang.String\ getBeschreibung()
+comment6.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ die\ Beschreibung\ eines\ Videos.\r\n\ \r\n\ @return\ title\ eines\ Artikels\r\n
+numComments=7

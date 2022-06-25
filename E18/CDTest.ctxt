@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CDTest
+comment0.text=\r\n\ Eine\ Klasse,\ die\ die\ Unterklasse\ CD\ mit\ bestimmte\ eingaben\ testet.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Kabas\ Algharib\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ test_Konstruktor_CD_interpret_soll_richtig_sein()
+comment2.params=
+comment2.target=void\ test_Konstruktor_CD_titel_soll_richtig_sein()
+comment3.params=
+comment3.target=void\ test_Konstruktor_CD_anzahlTitel_soll_richtig_sein()
+comment4.params=
+comment4.target=void\ test_zwei_Konstruktor_CD_anzahlTitel_soll_richtig_sein()
+comment5.params=
+comment5.target=void\ test_CD_Konstruktor_mit_leerem_interpret_soll_exception_werfen()
+comment6.params=
+comment6.target=void\ test_CD_Konstruktor_mit_leerem_Titel_soll_exception_werfen()
+comment7.params=
+comment7.target=void\ test_CD_Konstruktor_mit_ungueltigem_Anzahltitel_soll_exception_werfen()
+comment8.params=
+comment8.target=void\ test_zwei_CD_Konstruktor_mit_ungueltigem_Anzahltitel_soll_exception_werfen()
+comment9.params=
+comment9.target=void\ test_drei_CD_Konstruktor_mit_ungueltigem_Anzahltitel_soll_exception_werfen()
+numComments=10

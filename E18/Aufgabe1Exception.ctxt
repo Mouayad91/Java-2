@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Aufgabe1Exception
+comment0.text=\r\n\ Eine\ Exception-Klasse\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=msg
+comment1.target=Aufgabe1Exception(java.lang.String)
+numComments=2

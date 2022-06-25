@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BuchTest
+comment0.text=\r\n\ Eine\ Klasse,\ die\ die\ Unterklasse\ Buch\ mit\ bestimmte\ eingaben\ testet.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Kabas\ Algharib\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ test_Konstruktor_Buch_Autor_soll_richtig_sein()
+comment2.params=
+comment2.target=void\ test_Konstruktor_Buch_Titel_soll_richtig_sein()
+comment3.params=
+comment3.target=void\ test_Konstruktor_Video_Jahr_soll_richtig_sein()
+comment4.params=
+comment4.target=void\ test_Buch_Konstruktor_mit_leerem_Autor_soll_exception_werfen()
+comment5.params=
+comment5.target=void\ test_Buch_Konstruktor_mit_leerem_Titel_soll_exception_werfen()
+comment6.params=
+comment6.target=void\ test_Buch_Konstruktor_mit_leerem_Verlag_soll_exception_werfen()
+numComments=7

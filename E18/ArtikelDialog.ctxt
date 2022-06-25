@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArtikelDialog
+comment0.text=\r\n\ Programm\ zum\ erstellen\ und\ bearbeiten\ von\ Artikeln.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=int\ einleseFunktion()
+comment1.text=\r\n\ Die\ Funktionen\ werden\ hier\ angezeigt.\r\n\ \r\n\ @return\ Eingabe\ vom\ Benutzer\ als\ Ganzzahl\r\n
+comment2.params=
+comment2.target=Artikel\ artikelAnlegen()
+comment2.text=\r\n\ Ein\ neues\ Artikel\ wird\ hier\ angelegt.\r\n\ \r\n\ @return\ Ein\ neues\ Artikel\r\n
+comment3.params=
+comment3.target=int\ getInput()
+comment3.text=\r\n\ Hier\ wird\ man\ einen\ Wert\ eingeben\ um\ den\ Bestand\ zu\ erh\u00F6hen\ oder\ verringern\ oder\ f\u00FCr\ die\ Attribute\ Werte\ eingeben.\r\n\ \r\n\ @return\ Eingabe\ vom\ Benutzer\ als\ Ganzzahl\r\n
+comment4.params=zahlDerFunktion
+comment4.target=void\ funktionAusw\u00E4hlen(int)
+comment4.text=\r\n\ Hier\ wird\ vom\ benutzer\ eine\ Funktion\ ausgew\u00E4hlt,\ die\ eine\ richtige\ artikel\ methode\ ausgef\u00FChrt.\r\n\ \r\n\ @param\ funktion\ Auswahl\ des\ benutzers\r\n
+comment5.params=
+comment5.target=void\ start()
+comment5.text=\r\n\ Die\ Hauptschleife\ des\ Programms.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Die\ Main\ Methode\ der\ Klasse.\r\n\ \r\n\ @param\ args\r\n
+numComments=7
