@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dialog
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dialog\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ einleseFunktion()
+comment2.params=funktion
+comment2.target=void\ funktionAuswaehlen(int)
+comment3.params=
+comment3.target=java.lang.Object\ typeSafeInput()
+comment3.text=\r\n\ \r\n\ @return\ Object\ \r\n
+comment4.params=
+comment4.target=void\ check()
+comment5.params=
+comment5.target=void\ start()
+comment5.text=\r\n\ Die\ Hauptschleife\ des\ Programms.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Die\ Main\ Methode\ der\ Dialog_Klasse.\r\n\ \r\n\ @param\ args\r\n
+numComments=7

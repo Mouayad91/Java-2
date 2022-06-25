@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Dialog
+comment0.text=\r\n\ Programm\ zum\ bearbeiten\ und\ testen\ der\ DoppeltVerketteteListe.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=int\ einleseFunktion()
+comment1.text=\r\n\ Die\ Funktionen\ werden\ hier\ angezeigt\ und\ abh\u00E4ngig\ vom\ Benutzer\ eine\ Funktion\ ausgew\u00E4hlt.\r\n\ \r\n\ @return\ Eingabe\ vom\ Benutzer\ als\ Ganzzahl\r\n
+comment2.params=funktion
+comment2.target=void\ funktionAuswaehlen(int)
+comment2.text=\r\n\ Hier\ wird\ vom\ Benutzer\ eine\ Funktion\ ausgew\u00E4hlt,\ die\ eine\ richtige\ DoppeltVerketteteListe-Methode\ ausf\u00FChrt/aufruft.\r\n\ \r\n\ @param\ funktion\ Auswahl\ des\ Benutzers\r\n
+comment3.params=
+comment3.target=java.lang.Object\ typeSafeInput()
+comment3.text=\r\n\ Methode\ testet\ Typsicherheit\ f\u00FCr\ das\ Input\ des\ Benutzers.\r\n\ @return\ Object\ \r\n
+comment4.params=
+comment4.target=void\ check()
+comment4.text=\r\n\ Methode\ \u00FCberpr\u00FCft,\ ob\ die\ Liste\ erstellt\ wurde\ oder\ nicht.\r\n\r\n
+comment5.params=
+comment5.target=void\ start()
+comment5.text=\r\n\ Die\ Hauptschleife\ des\ Programms.\ Hier\ werden\ die\ ben\u00F6tigte\ Mthoden\ nacheinander\ ausgef\u00FChrt.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Die\ Main\ Methode\ der\ Dialog_Klasse.\r\n\ \r\n\ @param\ args\r\n
+numComments=7
