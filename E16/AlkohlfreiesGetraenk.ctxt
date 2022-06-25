@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AlkohlfreiesGetraenk
+comment0.text=\r\n\ Abstakte-Klasse\ zum\ erstellen\ und\ bearbeiten\ von\ Alkohlfreiesgetr\u00E4nke.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=AlkohlfreiesGetraenk()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ hersteller\ mit\ default_value\ erstellt\ wird.\r\n\r\n
+comment2.params=hersteller
+comment2.target=AlkohlfreiesGetraenk(java.lang.String)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ hersteller\ mit\ dem\ eingegebenen\ String\ erstellt\ wird.\r\n\ \r\n\ @param\ hersteller,\ als\ Inhalt\ des\ Variables\ hersteller\r\n
+comment3.params=hersteller
+comment3.target=void\ setHersteller(java.lang.String)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ einen\ neuen\ Hersteller\ setzen.\r\n\ \r\n\ @param\ hersteller\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getHersteller()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ den\ Hersteller\ des\ Alkohlfreiesgetraenkes.\r\n\ \r\n\ @return\ hersteller\ des\ Getraenkes\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Methode\ gibt\ den\ hersteller\ des\ Alkohlfreiesgetraenkes\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ hersteller\ Hersteller\ des\ Getraenkes\ als\ String\r\n
+numComments=6

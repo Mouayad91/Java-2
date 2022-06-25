@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Getraenkeautomat
+comment0.text=\r\n\ Eine\ Generische_Klasse,\ die\ eine\ Getraenke_instanz\ bzw.\ _Objekt\ erstellt\ und\ bearbeitet.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\ \r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=kapazitaet
+comment1.target=Getraenkeautomat(int)
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ Getraenkeautomat,\ in\ dem\ das\ Field_Variable\ kapazitaet\ und\ das\ ArrayList\ mit\ dem\ eingegebenen_generischen_Typ\ erstellt\ wird.\r\n\ \r\n\ @param\ kapazitaet,\ als\ kapazitaet\ des\ ArrayLists\ bzw.\ des\ Getr\u00E4nkeautomats\r\n
+comment2.params=f
+comment2.target=void\ flascheEinlegen(Flasche)
+comment2.text=\r\n\ Methode\ f\u00FCgt\ Flasche\ am\ ende\ des\ ArrayLists\ bzw.\ des\ Getraenkeautomat\ hin.\r\n\r\n@param\ f,\ die\ Objekt-Flasche\ hinzuf\u00FCgen.\r\n
+comment3.params=wahl
+comment3.target=Getraenk\ flascheAusgeben(int)
+comment3.text=\r\n\ Hier\ wird\ die\ angeforderte\ Flasche,\ abh\u00E4ngig\ von\ ihre\ index_Nummer\ zur\u00FCckgegeben\ und\ dann\ von\ der\ ArrayList\ bzw.\ Getraenkeautomat\ gel\u00F6scht.\r\n\ \r\n\ @param\ wahl\ Index\ der\ Flasche\ im\ ArrayList\r\n\ @return\ flasche\r\n
+comment4.params=
+comment4.target=int\ getAnzahlFlaschen()
+comment4.text=\r\n\ Methode\ gibt\ die\ Anzahl\ der\ Flaschen\ im\ ArrayList\ bzw.\ Getraenkautomat\ zur\u00FCck.\r\n\r\n@return\ anzahlFlaschen\ Anzahl\ der\ Flaschen\ im\ Automat\r\n
+comment5.params=
+comment5.target=int\ getKapazitaet()
+comment5.text=\r\n\ Mit\ der\ Methode\ bekommt\ man\ die\ Kapazitaet\ des\ ArrayLists.\r\n\ \r\n\ @return\ kapazitaet\r\n
+comment6.params=kapazitaet
+comment6.target=void\ setKapazitaet(int)
+comment6.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ eine\ neue\ Kapazit\u00E4t\ f\u00FCr\ den\ Getraenkeautomat\ setzen.\r\n\ \r\n\ @param\ kapazitaet\ Kapazitaet\ des\ Getraenkeautomates\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Methode\ gibt\ alle\ enthaltenen\ Flaschen\ (mit\ Flaschen_Typ)\ im\ ArrayList\ bzw.\ im\ Getraenkeautomat\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ Zeichenkette\ von\ der\ enthaltenen\ Flaschen\ im\ ArrayList.\r\n
+numComments=8

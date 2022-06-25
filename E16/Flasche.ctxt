@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Flasche
+comment0.text=\r\n\ Eine\ Generische_Klasse,\ die\ eine\ Flasche\ erstellt\ und\ bearbeitet.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\ \r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Flasche()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ inhalt\ mit\ default_value\ erstellt\ wird.\r\n\ \r\n
+comment2.params=inhalt
+comment2.target=Flasche(Getraenk)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ inhalt\ mit\ dem\ eingegebenen_generischen_typ\ erstellt\ wird.\r\n\ \r\n\ @param\ inhalt,\ als\ Inhalt\ des\ Variables\ inhalt\r\n
+comment3.params=g
+comment3.target=void\ fuellen(Getraenk)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ das\ Field_Variable\ mit\ einem\ eingegebenen\ Getraenk_Objekt\ f\u00FCllen\ (als\ Inhalt\ der\ Objekt\ Flasche).\r\n\ \r\n\ @param\ g,\ als\ Inhalt\ des\ Field_Variables\r\n
+comment4.params=
+comment4.target=void\ leeren()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ das\ Field_Variable\ mit\ null_Inhalt\ leeren\ (als\ Inhalt\ der\ Objekt\ Flasche).\r\n\ \r\n
+comment5.params=inhalt
+comment5.target=void\ setInhalt(Getraenk)
+comment5.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ einen\ neuen\ Inhalt\ f\u00FCr\ eine\ Flasche_Objekt\ setzen.\r\n\ \r\n\ @param\ inhalt\ Inhalt\ der\ Flasche\r\n
+comment6.params=
+comment6.target=Getraenk\ getInhalt()
+comment6.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ den\ Inhalt\ der\ Flasche.\r\n\ \r\n\ @return\ inhalt\ der\ Flasche\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Methode\ gibt\ den\ Ihalt\ der\ Flasche\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ inhalt\ Inhalt\ der\ Flasche\ als\ String\r\n
+numComments=8

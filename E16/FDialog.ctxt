@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FDialog
+comment0.text=\r\n\ Programm\ zum\ erstellen\ und\ bearbeiten\ von\ Getr\u00E4nkeautomat\ und\ Flaschen.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Die\ Main\ Methode\ der\ Dialog_Klasse.\r\n\ \r\n\ @param\ args\r\n
+comment2.params=
+comment2.target=FDialog.Dialog\ chooseInstance()
+comment2.text=\r\n\ Eine\ Methode\ die\ abh\u00E4ngig\ vom\ Benutzer,\ eine\ Dialog_instanz\ mit\ einer\ von\ verschiedenen\ Generic_Typen\ zur\u00FCckgebt,\ um\ das\ angeforderte\ Generic_Typ\ bei\ der\ Getr\u00E4nkeautomat\ einzusetzen.\r\n\ \r\n\ @return\ d,\ eine\ Dialog_instanz\ mit\ bestimmten\ Generic_Typ.\r\n
+comment3.params=o
+comment3.target=void\ run(FDialog.Dialog)
+comment3.text=\r\n\ Eine\ Methode\ die\ uns,\ die\ Start_Methode\ des\ Dialog_instanzes\ ausf\u00FChrt.\r\n\ \r\n\ @param\ o,\ die\ Dialog_instanz\r\n
+numComments=4

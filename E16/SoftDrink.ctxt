@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SoftDrink
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SoftDrink\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SoftDrink()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ zuckergehalt\ mit\ default_value\ erstellt\ wird.\r\n
+comment2.params=zuckergehalt
+comment2.target=SoftDrink(float)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ zuckergehalt\ mit\ dem\ eingegebenen\ Float\ erstellt\ wird.\r\n\ \r\n\ @param\ zuckergehalt,\ als\ Inhalt\ des\ Variables\ zuckergehalt\r\n
+comment3.params=zuckergehalt
+comment3.target=void\ setZuckergehalt(float)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ einen\ neuen\ Zuckergehalt\ setzen.\r\n\ \r\n\ @param\ zuckergehalt\ Zuckergehalt\ des\ Softdrinks\ \r\n
+comment4.params=
+comment4.target=float\ getZuckergehalt()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ den\ Zuckergehalt\ zur\u00FCck.\r\n\ \r\n\ @return\ zuckergehalt\ Zuckergehalt\ des\ Softdrinks\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Methode\ gibt\ den\ Zuckergehalt\ und\ den\ Hersteller\ des\ Softdrinks\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ zuckergehalt\ Zuckergehalt\ des\ Softdrinks\ als\ String\r\n\ @return\ getHersteller()\ Hersteller\ des\ Softdrinks\ als\ String\r\n
+numComments=6

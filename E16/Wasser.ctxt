@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wasser
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wasser\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Wasser()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ quelle\ mit\ default_value\ erstellt\ wird.\r\n
+comment2.params=quelle
+comment2.target=Wasser(java.lang.String)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ quelle\ mit\ dem\ eingegebenen\ String\ erstellt\ wird.\r\n\ \r\n\ @param\ quelle,\ als\ Inhalt\ des\ Variables\ quelle\r\n
+comment3.params=quelle
+comment3.target=void\ setQuelle(java.lang.String)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ eine\ neue\ Quelle\ setzen.\r\n\ \r\n\ @param\ quelle\ Quelle\ des\ Wassers\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getQuelle()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ die\ Quelle\ zur\u00FCck.\r\n\ \r\n\ @return\ quelle\ des\ Wassers\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Methode\ gibt\ die\ Quelle\ und\ den\ Hersteller\ des\ Wassers\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ quelle\ Quelle\ des\ Wassers\ als\ String\r\n\ @return\ getHersteller()\ Hersteller\ des\ Wassers\ als\ String\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bier
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bier\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Bier()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ brauerei\ mit\ default_value\ erstellt\ wird.\r\n
+comment2.params=brauerei
+comment2.target=Bier(java.lang.String)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ brauerei\ mit\ dem\ eingegebenen\ String\ erstellt\ wird.\r\n\ \r\n\ @param\ brauerei,\ als\ Inhalt\ des\ Variables\ brauerei\r\n
+comment3.params=brauerei
+comment3.target=void\ setBrauerei(java.lang.String)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ eine\ neue\ brauerei\ setzen.\r\n\ \r\n\ @param\ brauerei\ Brauerei\ des\ Biers\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getBrauerei()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ die\ Brauerei\ zur\u00FCck.\r\n\ \r\n\ @return\ brauerei\ Brauerei\ des\ Biers\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Methode\ gibt\ die\ Brauerei\ und\ den\ Alkoholgehalt\ des\ Biers\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ brauerei\ Brauerei\ des\ Biers\ als\ String\r\n\ @return\ getAlkoholgehalt()\ Alkoholgehalt\ des\ Biers\ als\ String\r\n
+numComments=6

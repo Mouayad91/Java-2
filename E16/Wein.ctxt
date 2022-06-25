@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wein
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wein\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Wein()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ weingut\ mit\ default_value\ erstellt\ wird.\r\n
+comment2.params=weingut
+comment2.target=Wein(java.lang.String)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ weingut\ mit\ dem\ eingegebenen\ String\ erstellt\ wird.\r\n\ \r\n\ @param\ weingut,\ als\ Inhalt\ des\ Variables\ weingut\r\n
+comment3.params=weingut
+comment3.target=void\ setWeingut(java.lang.String)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ einen\ neuen\ weingut\ setzen.\r\n\ \r\n\ @param\ weingut\ Weingut\ des\ Weins\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getWeingut()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ den\ Weingut\ zur\u00FCck.\r\n\ \r\n\ @return\ weingut\ Weingut\ des\ Weins\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Methode\ gibt\ den\ Weingut\ und\ den\ Alkoholgehalt\ des\ Weins\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ weingut\ Weingut\ des\ Weins\ als\ String\r\n\ @return\ getAlkoholgehalt()\ Alkoholgehalt\ des\ Weins\ als\ String\r\n
+numComments=6

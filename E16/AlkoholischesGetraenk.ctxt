@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AlkoholischesGetraenk
+comment0.text=\r\n\ Abstakte-Klasse\ zum\ erstellen\ und\ bearbeiten\ von\ Alkoholischesgetr\u00E4nke.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=AlkoholischesGetraenk()
+comment1.text=\r\n\ Standard_Konstruktor,\ in\ dem\ das\ Field_Variable\ alkoholgehalt\ mit\ default_value\ erstellt\ wird.\r\n\ \r\n
+comment2.params=alkoholgehalt
+comment2.target=AlkoholischesGetraenk(float)
+comment2.text=\r\n\ Konstruktor,\ in\ dem\ das\ Field_Variable\ alkoholgehalt\ mit\ dem\ eingegebenen\ Float\ erstellt\ wird.\r\n\ \r\n\ @param\ alkoholgehalt,\ als\ Inhalt\ des\ Variables\ alkoholgehalt\r\n
+comment3.params=alkoholgehalt
+comment3.target=void\ setAlkoholgehalt(float)
+comment3.text=\r\n\ Mit\ dieser\ Methode\ kann\ man\ einen\ neuen\ Alkoholgehalt\ setzen.\r\n\ \r\n\ @param\ alkoholgehalt\ \r\n
+comment4.params=
+comment4.target=float\ getAlkoholgehalt()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ bekommt\ man\ den\ Alkoholgehalt\ des\ Alkoholischesgetraenkes.\r\n\ \r\n\ @return\ alkoholgehalt\ des\ Getraenkes\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Methode\ gibt\ den\ Alkoholgehalt\ des\ Alkoholischesgetraenkes\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @return\ alkoholgehalt\ Alkoholgehalt\ des\ Getraenkes\ als\ String\r\n
+numComments=6
