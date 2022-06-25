@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=QueueDialog
+comment0.text=\r\n\ Programm\ zum\ erstellen\ und\ bearbeiten\ von\ Personen\ auf\ eine\ Warteschlange.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Kabas\ Algharib\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ start2()
+comment1.text=\r\n\ Hier\ wird\ abh\u00E4ngig\ vom\ programmierer\ Methoden\ durch\ \r\n\ bestimmte\ Eingaben\ getestet\ und\ die\ richtige\ Methode\ ausgef\u00FChrt.\r\n\ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Die\ Main\ Methode\ der\ Klasse.\r\n\ \r\n\ @param\ args\r\n
+comment3.params=q
+comment3.target=void\ print(Queue)
+comment3.text=\r\n\ Eine\ Methode\ die\ uns\ Details\ \u00FCber\ die\ eingef\u00FCgten\ Personen\ auf\ der\ Warteschlange\ als\ text\ ausgibt.\r\n\ \r\n\ @param\ q\ Zugriff\ auf\ meine\ elemente\ in\ meiner\ Arrays\r\n
+comment4.params=
+comment4.target=int\ einleseFunktion()
+comment5.params=funktion
+comment5.target=void\ funktionAuswaehlen(int)
+comment6.params=
+comment6.target=void\ start()
+numComments=7
