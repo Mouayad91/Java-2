@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ggt
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ggt\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=int\ ggtBerechnen(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ ggT(int,\ int)
+comment3.params=bedingung\ msg
+comment3.target=void\ check(boolean,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

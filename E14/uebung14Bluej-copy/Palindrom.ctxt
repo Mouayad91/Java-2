@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Palindrom
+comment0.text=\r\n\ Interface-Klasse\ zum\ erbung\ der\ Methode\ und\ Konstanten.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=wort
+comment1.target=boolean\ istPalindrom(java.lang.String)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GGT
+comment0.text=\r\n\ Eine\ Klasse,\ die\ das\ GGT\ von\ zwei\ Zahlen\ berechnet\ und\ die\ Ausf\u00FChrung\ Rekursiv\ durchzuf\u00FChren.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main-Methode\ unser\ Programm,\ um\ das\ Programm\ auszuf\u00FChren\ und\ paar\ Teste\ durchzuf\u00FChren.\ \r\n\ \r\n\ @param\ args\r\n
+comment2.params=a\ b
+comment2.target=int\ ggt(int,\ int)
+comment2.text=\r\n\ Mit\ dieser\ Methode\ wird\ das\ GGT\ von\ zwei\ Zahlen\ Rekursiv\ berechnet.\r\n\ \r\n\ @param\ a,\ erste\ Zahl\r\n\ @param\ b,\ zweite\ Zahl\r\n\ @return\ ggt_zwei_zahlen,\ das\ ergebnis\r\n
+numComments=3

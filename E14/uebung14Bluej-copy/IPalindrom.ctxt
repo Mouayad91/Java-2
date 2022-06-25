@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=IPalindrom
+comment0.text=\r\n\ Programm,\ um\ Palindrom\ worter\ zu\ pr\u00FCfen\ und\ finden\ und\ die\ Rekursive\ und\ Iterative\ Geschwindigkeit\ zu\ rechnen.\r\n\r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=filename
+comment1.target=void\ start(java.io.File)
+comment1.text=\r\n\ Hier\ wird\ die\ L\ und\ Existenz\ der\ Datei\ getestet\ und\ dann\ die\ Datei\ lesen\ und\ an\ andere\ Methode\ weiterleiten.\r\n\ \r\n\ @param\ filename\ der\ Datei\r\n
+comment2.params=file
+comment2.target=void\ dateiLesen(java.io.File)
+comment2.text=\r\n\ In\ dieser\ Methode\ wird\ die\ Datei\ gelesen\ und\ die\ enthaltene\ Strings\ ge\u00E4ndert\ und\ dann\ an\ die\ dateiSchreiben-methode\ weitergeleitet\r\n\ nachdem\ alle\ W\u00F6rter\ als\ Strings\ in\ einer\ Liste\ gespeichert\ werden.\r\n\ \r\n\ @param\ file,\ um\ die\ Inhalte\ der\ Datei\ zu\ lesen.\r\n
+comment3.params=wort
+comment3.target=java.lang.String\ geschwindigkeitsmessung(java.lang.String)
+comment3.text=\r\n\ Methode\ berechnet\ die\ Geschwindigkeit\ der\ beiden\ Algorithmen\ Rekursiv\ und\ Iterativ\ f\u00FCr\ die\ Palindromuntersuchung\ und\ gibt\ das\ Ergbnis\ als\ String\ zur\u00FCck.\r\n\ \r\n\ @param\ wort,\ um\ die\ Geschwindigkeit\ der\ gespeicherte\ W\u00F6rter\ in\ der\ Liste\ zu\ testen.\r\n\ @return\ Zeichenkette\ der\ Attribute\ wort,\ rekErgebnis,\ iterErgebnis\ und\ wort.length()\ als\ String\r\n
+comment4.params=
+comment4.target=void\ dateiSchreiben()
+comment4.text=\r\n\ Methode\ schreibt\ das\ Endergebnis\ der\ Testungen\ von\ W\u00F6rter\ in\ eine\ neue\ erstellte\ Text-Datei.\r\n\ \r\n
+comment5.params=wort
+comment5.target=boolean\ istPalindrom(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Die\ Main\ Methode\ der\ Klasse,\ um\ das\ Programm\ auszuf\u00FChren.\r\n\ Abh\u00E4ngig\ vom\ Benutzer\ zu\ w\u00E4hlen,\ ob\ die\ Eingabe\ als\ Text-Datei\ oder\ Aguments\ zu\ geben.\r\n\ @param\ args\r\n
+numComments=7

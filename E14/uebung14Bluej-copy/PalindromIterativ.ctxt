@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PalindromIterativ
+comment0.text=\r\n\ Programm,\ um\ das\ eingegebene\ Wort\ auf\ Palindrom\ Iterativ\ zu\ testen.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=PalindromIterativ()
+comment1.text=\r\n\ Hier\ wird\ das\ Typ\ der\ Algorithmus\ f\u00FCr\ die\ Undersuchung\ gew\u00E4hlt.\r\n\ \r\n
+comment2.params=wort
+comment2.target=boolean\ istPalindrom(java.lang.String)
+comment2.text=\r\n\ Methode\ testet\ das\ Wort\ durch\ Iterative\ Algorithmus\ auf\ Palindrom.\r\n\ \r\n\ @param\ wort,\ das\ wort\ zum\ Testen.\r\n
+numComments=3

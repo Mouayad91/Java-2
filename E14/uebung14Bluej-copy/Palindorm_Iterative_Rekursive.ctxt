@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Palindorm_Iterative_Rekursive
+comment0.text=\r\n\ Abstakte-Klasse\ zum\ deklarieren\ von\ abstrakte\ Methoden.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=gew\u00E4hlte_type
+comment1.target=Palindorm_Iterative_Rekursive(int)
+numComments=2
