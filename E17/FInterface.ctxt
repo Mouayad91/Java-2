@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FInterface
+comment0.text=\r\n\ Ein\ Interface,\ der\ das\ Interface\ MyFunction\ mit\ zwei\ Default-Methoden\ erweitert.\r\n\ \r\n\ @author\ Monzr\ Hajy\ Omar\ und\ Mouayad\ Haji\ Omar\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=predicate
+comment1.target=MyFunction\ conditionateInput(java.util.function.IntPredicate)
+comment1.text=\r\n\ Eine\ Default-Methode,\ die\ ein\ Integer-Wert\ mit\ den\ eingegebenen\ IntPredicate\ testet\ und\ dann\ entweder\ die\ an\ die\ apply-Methode\ weiterleiten\ oder\ null\ zur\u00FCckgeben.\r\n\r\n@param\ predicate\ zum\ Eingeben\ von\ predicaten\r\n
+comment2.params=predicate
+comment2.target=MyFunction\ conditionateOutput(java.util.function.IntPredicate)
+comment2.text=\r\n\ Eine\ Default-Methode,\ die\ das\ Ergebnis\ von\ einem\ Integer-Wert\ mit\ den\ eingegebenen\ IntPredicate\ testet\ und\ dann\ entweder\ das\ Ergebnis\ der\ apply-Methode\ oder\ null\ zur\u00FCckgeben.\r\n\r\n@param\ predicate\ zum\ Eingeben\ von\ predicaten\r\n
+numComments=3
